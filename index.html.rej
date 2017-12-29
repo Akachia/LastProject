@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -12,6 +12,6 @@
+     </article>
+     <aside>
+     아니라고
+-    </aside>
++    </aside>ㅇ
+ </body>
+ </html>
